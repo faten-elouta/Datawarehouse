@@ -1,3 +1,2 @@
 # Datawarehouse
-This reposotry contains several dataset and a file powerpoint datawarehouse.pptx which desribes and details all dataset: Covid19Canada, Covid19France and policier-shooting.
-we proposed a conceptual model of each of them to build a datawarehouse.
+This repository contains several datasets and a powerpoint file desribing the datasets: Covid19Canada, Covid19France and policier-shooting. The objective is to build a data warehouse for showcasing the Assess OLAP intentional operator. We proposed a conceptual model using DFM notation for each of the dataset.
